@@ -39,12 +39,16 @@ text-transform: uppercase;
 .school{ 
  
  display: inline;
+ margin-right: 100px;
  }
 
 #done{ 
  font-style: italic;
  font-weight: bold;
- float: right}
+ float: right
+ 
+
+}
 
 #second{ 
 font-size: 20px;
