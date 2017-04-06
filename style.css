@@ -27,9 +27,8 @@ body{
 }
 
 #profile{
- width: 2px;
- height: 2px; 
- position: absolute; right: 200px; top: 200px;
+
+ position: absolute; right: 200px; top: 0px;
 
  }
 
