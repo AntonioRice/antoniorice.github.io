@@ -9,7 +9,7 @@ header{
 }
 
 .profile{
- float: right;
+ position: right;
  width: 200px;
  height: 200px; 
  top: 190px
