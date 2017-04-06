@@ -48,6 +48,9 @@ text-transform: uppercase;
  float: right 
 }
 
+#comp1{ font-weight: bold;}
+#pos1{ font-weight: bold;}
+
 #second{ 
 font-size: 20px;
 font-weight: bold;
