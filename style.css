@@ -10,8 +10,8 @@ body{
   
  margin-top: 90px;
  margin-bottom: 90px;
- margin-right: 150px;
- margin-left: 150px;
+ margin-right: 100px;
+ margin-left: 100px;
 
  text-align:justify
   
@@ -36,7 +36,9 @@ text-decoration: underline;
 text-transform: uppercase; 
  }
 
-.school{  display: inline;
+.school{ 
+ 
+ display: inline;
 
 }
 
