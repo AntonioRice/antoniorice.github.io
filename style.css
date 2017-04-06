@@ -11,11 +11,8 @@ header{
 .profile{
  width: 200px;
  height: 200px; 
- top: 500px;
- right: 500px; 
- 
-
- 
+ position: absolute;
+ float: right;
  }
 
 
