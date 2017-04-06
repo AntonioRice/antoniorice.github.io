@@ -3,7 +3,11 @@ body{
  font-family: Georgia, serif;
  
 }
- 
+.ci{
+ line-height:70%;
+
+}
+
 #name{ 
 font-size: 32px;
 font-weight: bold 
