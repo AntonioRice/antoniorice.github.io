@@ -24,4 +24,10 @@ text-decoration: underline;
 text-transform: uppercase; 
  }
 
+#second{ 
+font-size: 25px;
+font-weight: bold;
+text-decoration: underline; 
+text-transform: uppercase;
+}
 
