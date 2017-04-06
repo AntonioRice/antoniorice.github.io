@@ -39,7 +39,7 @@ text-transform: uppercase;
 .school{ 
  
  display: inline;
- margin-right: 100px;
+ text-align:justify
  }
 
 #done{ 
