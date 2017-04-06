@@ -4,8 +4,8 @@ body{
  
 }
 .ci{
- line-height:50%;
-
+ line-height:30%;
+ text-align: center;
 }
 
 #name{ 
