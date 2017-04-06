@@ -42,18 +42,18 @@ text-transform: uppercase;
  
  }
 
-#done{ 
- font-style: italic;
- font-weight: bold;
- float: right 
-}
-
 #comp{ 
  font-weight: bold;
 }
 #pos{ 
  font-weight: bold;
  font-style: italic;
+}
+
+#done{ 
+ font-style: italic;
+ font-weight: bold;
+ float: right 
 }
 
 #second{ 
