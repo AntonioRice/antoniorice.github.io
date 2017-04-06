@@ -32,6 +32,12 @@ body{
 
  }
 
+#click{
+
+ position: absolute; right 100px; top: 40px;
+ 
+}
+
 #name{ 
 font-size: 30px;
 font-weight: bold 
