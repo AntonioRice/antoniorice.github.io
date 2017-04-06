@@ -7,8 +7,7 @@ body{
  background-size: cover;
  
  font-family: Georgia, serif;
- font-weight: 300;
- 
+  
  margin-top: 90px;
  margin-bottom: 90px;
  margin-right: 150px;
@@ -65,9 +64,9 @@ text-transform: uppercase;
 }
 
 #footer{
-font-size: 10px
-color: red;
+font-size: 5px;
 font-style: italic; 
 text-align: center;
+ 
 }
 
