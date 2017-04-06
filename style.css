@@ -8,13 +8,6 @@ header{
 
 }
 
-#profile{
- width: 20px;
- height: 20px; 
-
- }
-
-
 body{ 
  
  background-image: url("http://wallpaper-gallery.net/images/textured-white-wallpaper/textured-white-wallpaper-10.jpg");
@@ -30,8 +23,14 @@ body{
  margin-left: 105px;
 
  text-align:justify
-  
-  }
+ 
+}
+
+#profile{
+ width: 20px;
+ height: 20px; 
+
+ }
 
 #name{ 
 font-size: 30px;
