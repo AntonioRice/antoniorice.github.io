@@ -1,6 +1,11 @@
 
 body{ 
  font-family: Georgia, serif;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+
 }
 .ci{
  line-height:35%;
