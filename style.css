@@ -5,6 +5,7 @@ margin-top: 90px;
 margin-bottom: 100px;
 margin-right: 110px;
 margin-left: 110px;
+ text-align:justify
 }
 
 
@@ -51,4 +52,13 @@ font-size: 20px;
 font-weight: bold;
 text-decoration: underline; 
 text-transform: uppercase;
+}
+
+#footer{
+font-size: 10px
+color: red;
+font-style: italic; 
+text-align: center;
+ 
+ 
 }
