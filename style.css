@@ -1,4 +1,12 @@
+header{
+ border-bottom: solid #ff0000;
 
+}
+
+.ci{
+ line-height:35%;  
+
+}
 body{ 
  
  background-image: url("http://wallpaper-gallery.net/images/textured-white-wallpaper/textured-white-wallpaper-10.jpg");
@@ -16,13 +24,6 @@ body{
  text-align:justify
   
   }
-
-
-.ci{
- line-height:35%;
-
-  
-}
 
 #name{ 
 font-size: 30px;
