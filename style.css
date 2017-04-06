@@ -39,13 +39,17 @@ text-transform: uppercase;
 .school{ 
  
  display: inline;
- text-align:justify
+ 
  }
 
 #done{ 
  font-style: italic;
  font-weight: bold;
  float: right
+ width: 500px;
+    margin: auto;
+    padding: auto;
+    overflow: auto; 
  
 
 }
