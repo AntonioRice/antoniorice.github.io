@@ -5,13 +5,17 @@ body{
  background-repeat: no-repeat;
  background-position: center;
  background-size: cover;
+ 
  font-family: Georgia, serif;
-margin-top: 90px;
-margin-bottom: 90px;
-margin-right: 150px;
-margin-left: 150px;
+ font-weight: 300;
+ 
+ margin-top: 90px;
+ margin-bottom: 90px;
+ margin-right: 150px;
+ margin-left: 150px;
+
  text-align:justify
-  padding: 100px;
+  
   }
 
 .ci{
