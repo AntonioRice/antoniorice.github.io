@@ -7,8 +7,15 @@ header{
  line-height:35%;  
 
 }
+ 
+<div class="verticalline">
+</div>
+
+.verticalline{ 
+border-left: solid black;
+ 
+}
 body{ 
- border-left: solid red;
  
  background-image: url("http://wallpaper-gallery.net/images/textured-white-wallpaper/textured-white-wallpaper-10.jpg");
  background-repeat: no-repeat;
