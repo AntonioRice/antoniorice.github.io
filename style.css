@@ -59,6 +59,9 @@ font-size: 10px
 color: red;
 font-style: italic; 
 text-align: center;
- 
- 
 }
+
+   
+#Amazon{ float:left;}
+#title1{ float: left;}
+#date{ float: right}
