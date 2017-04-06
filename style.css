@@ -48,8 +48,13 @@ text-transform: uppercase;
  float: right 
 }
 
-#comp1{ font-weight: bold;}
-#pos1{ font-weight: bold;}
+#comp1{ 
+ font-weight: bold;
+}
+#pos1{ 
+ font-weight: bold;
+ font-style: italic;
+}
 
 #second{ 
 font-size: 20px;
