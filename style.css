@@ -1,5 +1,5 @@
 header{
- border-bottom: solid red;
+ border-bottom: solid black;
 
 }
 
@@ -8,13 +8,7 @@ header{
 
 }
  
-<div class="verticalline">
-</div>
 
-.verticalline{ 
-border-left: solid black;
- 
-}
 body{ 
  
  background-image: url("http://wallpaper-gallery.net/images/textured-white-wallpaper/textured-white-wallpaper-10.jpg");
