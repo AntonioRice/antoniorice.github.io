@@ -1,4 +1,4 @@
-# antoniorice.github.io
+# resume_challenge
 
 Project: Antonio Rice's Resume
 
